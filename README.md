@@ -1,2 +1,2 @@
 # checkpint_I
-Projeto aula de Front-and II
+Projeto aula de Front-end II
