@@ -1,4 +1,4 @@
-# checkpoint-I
+# Checkpoint-I
 ##Projeto aula de Front-end II
 
 ## Grupo 6
